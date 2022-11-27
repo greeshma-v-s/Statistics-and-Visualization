@@ -1,0 +1,20 @@
+# Statistics-and-Visualization
+1.Consider a test to detect a disease that 0.1 % of the population have. The test is 99 % effective in detecting an infected person. However, the test gives a false positive result in 0.5 % of cases. If a person tests positive for the disease what is the probability that they actually have it?
+Two production lines produce the same part.
+
+2.Line 1 produces 1,000 parts per week of which 100 are defective. Line 2 produces 2,000 parts per week of which 150 are defective. If you choose a part randomly from the stock what is the probability it is defective? If it is defective what is the probability it was produced by line 1?
+A store owner opens up a large shipment of shirts of various colours. It is found that the shipment has approximately 56% blue shirts. An employee of the store randomly selects five shirts to put on display. Find the probability that at least one of the selected shirts is blue.
+
+3.Present the concept of Confidence Interval using any 3 examples (How do you estimate population parameter from a sample).
+Present the concept of Hypothesis Testing and how to perform 1-tail and 2-tail t-test using it using examples.
+
+4.Write functions for the following tasks:
+Plot two numerical columns.
+Plot one numerical and one categorical column.
+Plot two numerical columns and one categorical column.
+Check null values in a column.
+Check the cardinality of a categorical column.
+Use the above functions and perform necessary EDA on two datasets:
+Titanic disaster dataset (link (Links to an external site.)).
+American Express dataset (link (Links to an external site.)).
+You must provide meaningful insights from EDA.
